@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://randwode17.cn/sitemap.xml
